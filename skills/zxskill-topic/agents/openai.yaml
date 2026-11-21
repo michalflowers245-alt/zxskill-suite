@@ -1,0 +1,4 @@
+interface:
+  display_name: "zxSkill 选题"
+  short_description: "筛选、评分并改写结构型内容选题"
+  default_prompt: "Use $zxskill-topic to evaluate and rewrite these content topics."

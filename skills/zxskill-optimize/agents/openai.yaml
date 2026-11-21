@@ -1,0 +1,4 @@
+interface:
+  display_name: "zxSkill 优化"
+  short_description: "把选题或草稿优化成结构型口播文章"
+  default_prompt: "Use $zxskill-optimize to turn this topic or draft into my accepted structure."

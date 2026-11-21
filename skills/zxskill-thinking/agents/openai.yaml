@@ -1,0 +1,4 @@
+interface:
+  display_name: "zxSkill 思考"
+  short_description: "从现实错位出发判断哪些问题值得深拆"
+  default_prompt: "Use $zxskill-thinking to find which real problems deserve this structure before turning them into topics."

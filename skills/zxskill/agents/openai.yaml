@@ -1,0 +1,4 @@
+interface:
+  display_name: "zxSkill 主入口"
+  short_description: "路由选题、优化和去AI味的个人内容工作流"
+  default_prompt: "Use $zxskill to run my personal topic-to-draft content workflow."

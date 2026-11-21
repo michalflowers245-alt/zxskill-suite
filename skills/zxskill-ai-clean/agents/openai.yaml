@@ -1,0 +1,4 @@
+interface:
+  display_name: "zxSkill 去AI味"
+  short_description: "保留原思路并去除AI写作痕迹"
+  default_prompt: "Use $zxskill-ai-clean to remove AI flavor while preserving my draft structure."
